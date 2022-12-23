@@ -76,6 +76,17 @@
 <img src="https://komarev.com/ghpvc/?username=marayyy&&style=flat-square" align="center" />
 </div>  
   
+<div align="center">
+        
+   ## Visitor Count
+   ![Visitor Count](https://profile-counter.glitch.me/{marayyy}/count.svg)
+        
+</div>
+
+<div align="center">
+  
+<b>❤️ Thank you for visiting my Github Profile ❤️</b>
+</div>
 
 <br/>  
 
