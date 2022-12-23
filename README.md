@@ -75,6 +75,12 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=marayyy&&style=flat-square" align="center" />
 </div>  
+<div align="center">
+        
+   ## Visitor Count
+   ![Visitor Count](https://profile-counter.glitch.me/{marayyy}/count.svg)
+        
+</div>
                                                                                         
 <div align="center">
   
