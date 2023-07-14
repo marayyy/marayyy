@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Maray, a Cybersecurity & Data science Enthusiast 👨‍💻 working remotely!🚀</div>  
+### <div align="center">I'm Maray, a Cybersecurity & Data science Enthusiast 👨‍💻 working remote!🚀</div>  
   
 
 - 🔭 I’m currently working on [Predicting Breast Cancer in a patient]([https://github.com/marayyy?tab=repositories])
